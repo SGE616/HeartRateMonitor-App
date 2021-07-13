@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "458234476523",
+    "firebase_url": "https://androidiot-bdc23-default-rtdb.firebaseio.com",
+    "project_id": "androidiot-bdc23",
+    "storage_bucket": "androidiot-bdc23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458234476523:android:0bf484a33c9f67a2748bae",
+        "android_client_info": {
+          "package_name": "com.example.androidiotfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458234476523-1jk1cacac9gesfho7i8drvatq1c2ecmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuG6lyqWnGqJiH0DezpqTG9nCNzvIE3h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458234476523-1jk1cacac9gesfho7i8drvatq1c2ecmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:458234476523:android:7a6cebe5b3ea622b748bae",
+        "android_client_info": {
+          "package_name": "com.example.heartrateproj"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "458234476523-1jk1cacac9gesfho7i8drvatq1c2ecmc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuG6lyqWnGqJiH0DezpqTG9nCNzvIE3h0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "458234476523-1jk1cacac9gesfho7i8drvatq1c2ecmc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
